@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computation/Linux/Bash and Shell/Wildcards.md",
+                "file": "Computation/Linux/Bash and Shell/cat - (concatenate).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wildcards"
+              "title": "cat - (concatenate)"
             }
           }
         ]
@@ -168,8 +168,13 @@
   },
   "active": "88efc0cd51b18826",
   "lastOpenFiles": [
-    "Computation/Linux/Bash and Shell/Cut.md",
+    "Computation/Linux/Bash and Shell/Sort.md",
+    "Computation/Linux/Bash and Shell/Split.md",
+    "Computation/Linux/Bash and Shell/Alias.md",
+    "Computation/Linux/Bash and Shell/Join.md",
+    "Computation/Linux/Bash and Shell/Which and Type.md",
     "Computation/Linux/Bash and Shell/Wildcards.md",
+    "Computation/Linux/Bash and Shell/Cut.md",
     "Computation/Linux/Bash and Shell/Paste.md",
     "Computation/Linux/Bash and Shell/Expand.md",
     "Computation/Linux/Bash and Shell/Unexpand.md",
@@ -189,11 +194,6 @@
     "Math/Logic/Modus Tollens.md",
     "Computation/Linux/Bash and Shell/cd (change directory).md",
     "Computation/Linux/Bash and Shell/copy.md",
-    "Computation/Linux/Bash and Shell/Echo.md",
-    "Computation/Linux/Bash and Shell/Env(Environment).md",
-    "Computation/Linux/Bash and Shell/ls - listing.md",
-    "Computation/Linux/Bash and Shell/mkdir - make directory.md",
-    "Computation/Linux/Bash and Shell/Man - manual.md",
     "Computation/Linux/Bash and Shell",
     "Computation/Linux",
     "Computation",
