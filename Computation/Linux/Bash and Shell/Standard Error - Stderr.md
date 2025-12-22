@@ -1,3 +1,5 @@
+#computation #linux #shell 
+
 In Linux,
 
 **standard error (stderr)** is ==a dedicated data stream used for outputting error messages and diagnostic information from a program or command==. It is one of three standard streams available to every process when it starts.

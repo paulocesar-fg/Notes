@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e6992a5b7f2cf207",
+        "id": "ef59cb5e30c12afd",
         "type": "tabs",
         "children": [
           {
-            "id": "88efc0cd51b18826",
+            "id": "d9f6d148ce7cbcfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computation/Linux/Bash and Shell/grep.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "grep"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9bc8f7d12f1d1b82",
@@ -167,16 +162,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "88efc0cd51b18826",
+  "active": "d9f6d148ce7cbcfc",
   "lastOpenFiles": [
-    "Computation/Linux/Bash and Shell/nl.md",
+    "Computation/Linux/Bash and Shell/Sort.md",
+    "Computation/Linux/Bash and Shell/Standard Error - Stderr.md",
     "Computation/Linux/Bash and Shell/grep.md",
+    "Computation/Linux/Bash and Shell/nl.md",
     "Computation/Linux/Bash and Shell/wc - (word count).md",
     "Computation/Linux/Bash and Shell/Uniq (Unique).md",
     "Computation/Linux/Bash and Shell/tr - translate.md",
     "Computation/Linux/Bash and Shell/copy.md",
     "Computation/Linux/Bash and Shell/cat - (concatenate).md",
-    "Computation/Linux/Bash and Shell/Sort.md",
     "Computation/Linux/Bash and Shell/Split.md",
     "Computation/Linux/Bash and Shell/Alias.md",
     "Computation/Linux/Bash and Shell/Join.md",
@@ -194,7 +190,6 @@
     "Math/Logic/Laws.md",
     "Math/Logic/Logical Connectives.md",
     "Math/Logic/Modus Ponens.md",
-    "Math/Logic/Truth table.md",
     "Computation/Linux/Bash and Shell",
     "Computation/Linux",
     "Computation",
