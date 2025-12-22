@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computation/Linux/Bash and Shell/cat - (concatenate).md",
+                "file": "Computation/Linux/Bash and Shell/grep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cat - (concatenate)"
+              "title": "grep"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9bc8f7d12f1d1b82",
@@ -168,6 +169,13 @@
   },
   "active": "88efc0cd51b18826",
   "lastOpenFiles": [
+    "Computation/Linux/Bash and Shell/nl.md",
+    "Computation/Linux/Bash and Shell/grep.md",
+    "Computation/Linux/Bash and Shell/wc - (word count).md",
+    "Computation/Linux/Bash and Shell/Uniq (Unique).md",
+    "Computation/Linux/Bash and Shell/tr - translate.md",
+    "Computation/Linux/Bash and Shell/copy.md",
+    "Computation/Linux/Bash and Shell/cat - (concatenate).md",
     "Computation/Linux/Bash and Shell/Sort.md",
     "Computation/Linux/Bash and Shell/Split.md",
     "Computation/Linux/Bash and Shell/Alias.md",
@@ -187,13 +195,6 @@
     "Math/Logic/Logical Connectives.md",
     "Math/Logic/Modus Ponens.md",
     "Math/Logic/Truth table.md",
-    "Math/Logic/Quantifiers.md",
-    "Math/Logic/Tautology and Contradiction.md",
-    "Math/Logic/Proof by contradiction.md",
-    "Math/Logic/Premises.md",
-    "Math/Logic/Modus Tollens.md",
-    "Computation/Linux/Bash and Shell/cd (change directory).md",
-    "Computation/Linux/Bash and Shell/copy.md",
     "Computation/Linux/Bash and Shell",
     "Computation/Linux",
     "Computation",
