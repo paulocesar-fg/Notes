@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computation/Linux/Bash and Shell/Standard Output - Stdout.md",
+                "file": "Computation/Version Control Systems - VCS/Git/Short History - ProGit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard Output - Stdout"
+              "title": "Short History - ProGit"
             }
           }
         ]
@@ -168,12 +168,16 @@
   },
   "active": "1ef9e97840ef4d83",
   "lastOpenFiles": [
+    "Computation/Version Control Systems - VCS/What is Version Control System and tips..md",
+    "Computation/Version Control Systems - VCS/Git/Git  - The three states.md",
+    "Computation/Version Control Systems - VCS/Git/Commands/Git status.md",
+    "Computation/Version Control Systems - VCS/Git/Git - Ignore files and directories.md",
+    "Computation/Linux/Bash and Shell/Standard Output - Stdout.md",
+    "Computation/Version Control Systems - VCS/Git/Commands",
     "Computation/Version Control Systems - VCS/images/git - records flow.png",
     "Computation/Version Control Systems - VCS/Git/Git - states in working directory.md",
     "Computation/Version Control Systems - VCS/Git/Git - Snapshots, Local Operations and Data Integrity.md",
     "Computation/Version Control Systems - VCS/Git/Short History - ProGit.md",
-    "Computation/Version Control Systems - VCS/Git/Git  - The three states.md",
-    "Computation/Version Control Systems - VCS/What is Version Control System and tips..md",
     "Computation/Version Control Systems - VCS/images/Distributed Version Control System.png",
     "Computation/Version Control Systems - VCS/images/Centered VCS.png",
     "Computation/Version Control Systems - VCS/images",
@@ -201,11 +205,8 @@
     "Computation/Linux/Bash and Shell/Wildcards.md",
     "Computation/Linux/Bash and Shell/Cut.md",
     "Computation/Linux/Bash and Shell/Paste.md",
-    "Computation/Linux/Bash and Shell/Expand.md",
-    "Computation/Linux/Bash and Shell/Unexpand.md",
     "Computation/Linux/Bash and Shell",
     "Computation/Linux",
-    "Computation",
-    "Math/Logic/Untitled"
+    "Computation"
   ]
 }
