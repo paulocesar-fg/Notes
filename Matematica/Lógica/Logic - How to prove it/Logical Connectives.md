@@ -97,8 +97,8 @@ Read: "A if and only if B" or "A is equivalent to B"
 ##### Truth table
 
 
-|     |     |            |
-| --- | --- | ---------- |
+|     |     |     |
+| --- | --- | --- |
 
 <hr> 
 

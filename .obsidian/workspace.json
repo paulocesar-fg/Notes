@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c26efea86ec8551",
+        "id": "6f0761b8df33a029",
         "type": "tabs",
         "children": [
           {
-            "id": "71ad218872db6c49",
+            "id": "315ee0039ab60c5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/geometria análitica/Vetor.md",
+                "file": "Matematica/Calculo 1/Limites e Continuidade/Limites infinitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vetor"
+              "title": "Limites infinitos"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9bc8f7d12f1d1b82",
@@ -166,48 +167,53 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "71ad218872db6c49",
+  "active": "315ee0039ab60c5d",
   "lastOpenFiles": [
-    "Matematica/geometria análitica/Segmentos Orientados.md",
-    "Matematica/geometria análitica/imagens/segmentos orientados.png",
-    "Matematica/geometria análitica/imagens/Pasted image 20260601061811.png",
-    "Matematica/geometria análitica/Vetor.md",
-    "Matematica/geometria análitica/Sem título.md",
-    "Matematica/geometria análitica/Eixo.md",
-    "Matematica/geometria análitica/Equipolência.md",
-    "Matematica/geometria análitica/Medida algébrica de um segmento orientado unidimensional.md",
-    "Matematica/geometria análitica/Classe de equipolência.md",
-    "Matematica/geometria análitica/Sistema de coordenadas das abcissas.md",
-    "Matematica/geometria análitica/imagens",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Conjunto das partes.md",
-    "Matematica/geometria análitica",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Conjunto Universo.md",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Conjunto unitário e vazio.md",
-    "Matematica/Lógica/Logic - How to prove it/Logical Connectives.md",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Complementar.md",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Diferença entre conjuntos.md",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Igualdade de conjuntos.md",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/União de Conjuntos.md",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Intersecção de conjuntos.md",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Conjunto - Definição.md",
+    "Matematica/Calculo 1/Limites e Continuidade/Limites Laterais.md",
+    "Matematica/Calculo 1/Limites e Continuidade/Limites infinitos.md",
+    "Matematica/Calculo 1/Limites e Continuidade/O infinito.md",
+    "Matematica/Calculo 1/Limites e Continuidade/Limites no infinito.md",
+    "Matematica/Calculo 1/Limites e Continuidade/Limite de função composta.md",
+    "Matematica/Calculo 1/Limites e Continuidade/Assíntotas Horizontais.md",
+    "Matematica/images/assintota-horizontal.png",
+    "Matematica/images",
+    "Matematica/Calculo 1/Limites e Continuidade/Definição de Limite.md",
+    "Matematica/Calculo 1/Limites e Continuidade/Definição de função contínua.md",
+    "Matematica/Calculo 1/Limites e Continuidade/Teorema do Confronto.md",
+    "Matematica/Calculo 1/Limites e Continuidade/Propriedades dos Limites.md",
+    "Pasted image 20260711165055.png",
+    "Pasted image 20260711165019.png",
+    "Matematica/Lógica/Logic - How to prove it/Pasted image 20260711164953.png",
+    "Matematica/geometria analítica/Segmentos Orientados.md",
+    "Matematica/Calculo 1/Limites e Continuidade",
+    "Matematica/calculo 1/Sem título.md",
+    "Matematica/Calculo 1",
+    "Matematica/geometria analítica/Equipolência.md",
+    "Matematica/geometria analítica/Vetor.md",
+    "Matematica/geometria analítica/Medida algébrica de um segmento orientado unidimensional.md",
+    "Computation/Version Control Systems - VCS/What is Version Control System and tips..md",
+    "Física/mecânica clássica/Cinemática Escalar/Conceitos básicos.md",
     "Física/mecânica clássica/Cinemática Escalar/Movimento Progressivo e Retrógrado.md",
     "Física/mecânica clássica/Cinemática Escalar/Velocidade média escalar (M.U).md",
-    "Física/Vazão.md",
-    "Física/Velocidade da vazão.md",
-    "Matematica/Lógica/Lógica - Fundamentos da matemática elementar/Tautologias e Contradições.md",
+    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Complementar.md",
+    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Conjunto - Definição.md",
+    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Conjunto das partes.md",
+    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Conjunto Universo.md",
+    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Igualdade de conjuntos.md",
+    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Intersecção de conjuntos.md",
+    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/União de Conjuntos.md",
+    "Matematica/geometria analítica/imagens/segmentos orientados.png",
+    "Matematica/geometria análitica/imagens/Pasted image 20260601061811.png",
+    "Matematica/geometria analítica/imagens",
+    "Matematica/geometria analítica",
     "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar",
     "Matematica/Conjuntos",
-    "Matematica/Lógica/Lógica - Fundamentos da matemática elementar/Quantificadores lógicos.md",
-    "Matematica/Lógica/Lógica - Fundamentos da matemática elementar/Sentanças abertas.md",
     "Matematica/Lógica",
     "Matematica/Lógica/Lógica - Fundamentos da matemática elementar",
     "Física/mecânica clássica/Cinemática Escalar",
-    "Física/mecânica clássica",
-    "Física/Vazão",
     "Computation/Version Control Systems - VCS/images/local version control systems.png",
     "Computation/Version Control Systems - VCS/images/git - records flow.png",
     "Computation/Version Control Systems - VCS/images/Distributed Version Control System.png",
-    "Computation/Version Control Systems - VCS/images/Centered VCS.png",
-    "Física"
+    "Computation/Version Control Systems - VCS/images/Centered VCS.png"
   ]
 }

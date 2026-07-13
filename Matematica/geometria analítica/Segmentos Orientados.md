@@ -28,7 +28,7 @@ Suponha que (A,B) e (C,D )são nulos. Então dizemos que (A, B) e (C, D) possuem
 
 Suponha que (A,B) e (C, D) têm a mesma direção.
 
-Seja $\overrightarrow{AB} \neq \overrightarrow{CD}$, dizemos que eles têm o mesmo sentido caso os seguimentos AC e BD tenham interseção vazia. Caso $AB \cap CD \neq 0$ então os sentidos são opostos.
+Seja $\overrightarrow{AB} \neq \overrightarrow{CD}$, dizemos que eles têm o mesmo sentido caso os seguimentos AC e BD tenham interseção vazia. Caso $AC \cap BD \neq 0$ então os sentidos são opostos.
 
 
 
