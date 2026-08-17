@@ -1,6 +1,6 @@
 #math #calculo #limites  
 
--Assíntota horizontal ==é uma reta imaginária no plano cartesiano que indica o comportamento final de uma função==. Ela ocorre quando os valores da função (y) se aproximam cada vez mais de um valor constante específico à medida que a variável independente (x) cresce para valores muito altos positivos ou muito baixos negativos.
+Assíntota horizontal ==é uma reta imaginária no plano cartesiano que indica o comportamento final de uma função==. Ela ocorre quando os valores da função (y) se aproximam cada vez mais de um valor constante específico à medida que a variável independente (x) cresce para valores muito altos positivos ou muito baixos negativos.
 
 ![[assintota-horizontal.png]]
 
