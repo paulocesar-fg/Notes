@@ -1,5 +1,6 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Blue Topaz",
-  "accentColor": "#0033ff"
+  "accentColor": "#0033ff",
+  "showRibbon": true
 }

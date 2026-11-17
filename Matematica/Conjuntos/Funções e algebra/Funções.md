@@ -12,3 +12,15 @@ $$D = A$$
 Conjunto Im dos elementos $y \in B$ para os quais $\exists x \in A$ tal que $(x,y) \in f$. Portanto:
 Imagem é subconjunto de contradomínio
 $$\mathrm{Im} \subset B$$
+### Notações para representação de funções
+
+Geralmente, existe uma [[Sentanças abertas | sentença aberta]] que expressa a lei mediante a qual, dado $x \in A$ , determina $y \in B$ tal que $(x,y) \in f$, então:
+$$f = \{(x,y) | x \in A, y \in B \land y=f(x)\}$$
+Podemos denotar uma função como essa usando:
+
+$$f:\mathbb{A}\to\mathbb{B} \text{ , } x \to f(x)$$
+
+### Exemplos:
+1) $f: \{2,3,4\} \to \{4,9,16\}, \text{  } f(x) = x²$
+2) $f:\mathbb{R} \to \mathbb{R}, f(x) = 2x + 3$
+
