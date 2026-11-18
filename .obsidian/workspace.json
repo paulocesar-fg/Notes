@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4a7873a2f634430",
+        "id": "b7848f39a08f33bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b4389f9850ba3157",
+            "id": "3240dbd83af34374",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Matematica/Conjuntos/Funções e algebra/Função Sobrejetora, Injetora e Bijetora.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Função Sobrejetora, Injetora e Bijetora"
             }
           }
         ]
@@ -164,9 +168,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "b4389f9850ba3157",
+  "active": "3240dbd83af34374",
   "lastOpenFiles": [
+    "Matematica/Conjuntos/Funções e algebra/Outras funções elementares.md",
+    "Matematica/Conjuntos/Funções e algebra/Função Sobrejetora, Injetora e Bijetora.md",
+    "Matematica/Conjuntos/Funções e algebra/Função composta.md",
+    "Matematica/Calculo 1/Derivadas/Reta tangente ao ponto p.md",
     "Matematica/Conjuntos/Funções e algebra/Função Inversa.md",
+    "Matematica/Conjuntos/Funções e algebra/Função quadrática.md",
     "Matematica/Calculo 1/Derivadas/Derivadas de potência e raízes.md",
     "Matematica/Conjuntos/Funções e algebra/Função exponencial.md",
     "Matematica/Conjuntos/Funções e algebra/imagens/grafico-funcao-exponencial.png",
@@ -176,7 +185,6 @@
     "Matematica/Conjuntos/Funções e algebra/imagens",
     "Matematica/Conjuntos/Funções e algebra/Módulo.md",
     "Matematica/Conjuntos/Funções e algebra/Função afim.md",
-    "Matematica/Conjuntos/Funções e algebra/Função quadrática.md",
     "Matematica/Conjuntos/Funções e algebra/Funções.md",
     "Matematica/Conjuntos/Funções e algebra/Relações.md",
     "Matematica/Inequações/Inequações - potenciação.md",
@@ -193,10 +201,6 @@
     "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Produto cartesiano.md",
     "Matematica/geometria analítica/Equipolência.md",
     "Sem título.md",
-    "Matematica/Conjuntos/Conjuntos - Fundamentos da matemática elementar/Complementar.md",
-    "Matematica/geometria analítica/Medida algébrica de um segmento orientado unidimensional.md",
-    "Matematica/geometria analítica/Vetor.md",
-    "Matematica/Calculo 1/Derivadas/Derivação logarítmica.md",
     "Matematica/Lógica/Logic - How to prove it/Pasted image 20260711164953.png",
     "Matematica/Calculo 1/images/grafico-variacao-de-crescimente-e-decrescimento-da-funcao.png",
     "Matematica/Calculo 1/images/grafico-derivada-segundo-grau.png",

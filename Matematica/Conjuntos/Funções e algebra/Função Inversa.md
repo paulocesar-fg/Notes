@@ -12,7 +12,13 @@ Seja $y = f(x)$, f é bijetora, determinamos $f^{-1}$.
  
 2)  Transforme algebricamente a expressão $x = f(y)$, expressando $y$ em função de $x$ para obtermos $y = f^{-1}(x)$
 
-**EXEMPLOS**
+### inversa de função composta
+Seja $f:\mathbb{A \to B}$ e $g:\mathbb{B \to C}$ duas funções injetoras, então:
+
+$$(g \circ f)^{-1} = f^{-1} \circ g^{-1}$$
+
+
+## EXEMPLOS
 **EX1**
 a) $f:\mathbb{R \to R}, f(x) = 3x +2$
 I] Permutando as variáveis $x = 3y + 2$
@@ -27,5 +33,25 @@ II] Expressando y em função de x
 $$x = y^3 \implies y = \sqrt[3]{x}$$
 Assim, $f^{-1}:\mathbb{R \to R}, f^{-1}(x) = \sqrt[3]{x}$
 
+**EX3**
+Seja a função $f:\mathbb{R_{-} \to R_{+}}, f(x)=x²$  Qual é a inversa de f.
+A função dada é $f(x) = y =x²$, com $x \leq 0 \land y \geq 0$
+Permutando as variáveis
+$$x = y² \text{ com } x \geq 0 \text{ e } y \leq 0$$
+Expressando $y$ em relação a $x$ 
+$$x = y² \implies y = \sqrt{ x } \lor y = -\sqrt{ x }$$
+Considerando que em $f^{-1}$ devemos ter $y \leq 0$ e $x\geq 0$, logo a correspondência da função inversa será $f^{-1}(x) = - \sqrt{ x }$
 
-### inversa de função composta
+**EX4**
+seja $f:\mathbb{R \to R}, f(x) = 3 + 2^{x - 1}$ . Se $f(h(x))=3 + 2x, \text{ então } h\left( \frac{1}{4} \right)=0$ ?
+
+*Solução*
+Se $f(h(x))= 3 + 2x$, então 
+$$\begin{flalign*}
+& 3 + 2^{h(x) -1} = 3 + 2x \\ 
+&\implies 2^{h(x) - 1} = 2x \\
+& \implies \log_{2}{2x} = h(x) -1 \\
+& \implies h(x) = \log_{2}2x + 1 \\ 
+& \implies h(x) = \log_{2} 2 + \log_{2}{x} + 1 = 2 + \log_{2}{x} \\
+& \text{Assim, } h\left( \frac{1}{4} \right) = 2 + \log_{2}{\left(\frac{1}{4}\right)}=2-2=0 
+\end{flalign*}$$
